@@ -13,13 +13,13 @@
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
   "nickNameBot": "𝐍𝐚𝐠𝐢𝐧━━ᥫ᭡💋🐍",
-  "prefix": "-",
+  "prefix": "!",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61590777101909",
+    "61570871885492",
     "61590777101909",
     "61590777101909"
   ],
