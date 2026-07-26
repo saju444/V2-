@@ -6,7 +6,7 @@ module.exports = {
 		name: "admin",
 		alias: ["operator"],
 		version: "2.2",
-		author: "〲MAMUNツ࿐ T.T　o.O",
+		author: "〲𝑠ℎ𝑖𝑠ℎ𝑖𝑟ツ࿐ T.T　o.O",
 		countDown: 5,
 		role: 0,
 		shortDescription: { en: "Operator system" },
@@ -35,7 +35,7 @@ module.exports = {
 
 		// ✅ Owners (যারা add/remove করতে পারবে)
 		const OWNER = [
-		      "61590777101909"
+		      "61570871885492"
 		];
 
 		// ✅ Check: sender owner কিনা
