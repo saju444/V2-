@@ -6,7 +6,7 @@ module.exports = {
     name: "info",
     aliases: ["admininfo", "botinfo", "mamun", "ownerinfo"],
     version: "1.4",
-    author: "亗🅼🅰ᥫᩣ🅼ᥫᩣ🆄🅽×͜×",
+    author: "亗𝑠ℎ𝑖𝑠ℎ𝑖𝑟ᥫᩣ×͜×",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Show bot & owner info" },
@@ -48,12 +48,12 @@ module.exports = {
 🤖 Bot Name: ${global.GoatBot.config.nickNameBot}
 👾 Prefix: ${global.GoatBot.config.prefix}
 
-💙 Owner Name: ${authorName}
-📝 Age: ${ownAge}
-💕 Relationship: ${Status}
+💙 Owner Name: ${𝑠ℎ𝑖𝑠ℎ𝑖𝑟}
+📝 Age: ${17+}
+💕 Relationship: ${single }
 
-📞 WhatsApp: ${authorNumber}
-🌍 Facebook: ${authorFB}
+📞 WhatsApp: ${01749--26}
+🌍 Facebook: ${Yazaki }
 
 🗓 Date: ${date}
 ⏰ Time: ${time}
